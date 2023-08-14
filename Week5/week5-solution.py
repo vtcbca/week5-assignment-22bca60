@@ -1,3 +1,5 @@
+#WRITE A PYTHON PROGRAM TO CREATE CSV FILE STUDENT.CSV: 
+
 import csv
 
 with open('student.csv','w',newline='') as d :
